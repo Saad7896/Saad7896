@@ -1,3 +1,5 @@
+![logo](https://github.com/Saad7896/Saad7896/blob/main/Purple%20and%20Green%20Vibrant%20Modern%20Personal%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Saad Ashraf</h1>
 <h3 align="center">A passionate Python developer from Pakistan.</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif?cid=6c09b952rvgw3fkzdou239kbmkohoyfo79e9n8yxwfllaune&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
